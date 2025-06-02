@@ -1,6 +1,4 @@
-# tes_svm
-
-A new Flutter project.
+Kode Flutter untuk mengirim data BPM dan kemiringan (angle) ke server SVM yang berjalan di Pydroid, dengan debugging. 
 
 ## Getting Started
 
